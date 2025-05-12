@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller output
+/dist/
+/build/
+*.spec
+
+# Local database
+company_data.db
