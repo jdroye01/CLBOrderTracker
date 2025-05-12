@@ -9,3 +9,6 @@ __pycache__/
 
 # Local database
 company_data.db
+
+# Bat file
+build_exe.bat
